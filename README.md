@@ -3,7 +3,7 @@ I am a 4th year computer engineering student at Eskisehir Technical University.
 
 - 🔭 I’m currently working on: .NET, JavaScript, React, Node.js
 
-- 🌱 I’m currently learning: Machine Learning and Deep Learning
+- 🌱 I’m currently learning: Machine Learning
 
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin,&theme=light)][linkedin]
