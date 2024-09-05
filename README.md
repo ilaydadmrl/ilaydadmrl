@@ -1,5 +1,5 @@
 ### Hi there, I am Ilayda👋!
-I am a 4th year computer engineering student at Eskisehir Technical University.
+I am a freshly graduated computer engineer.
 
 - 🔭 I’m currently working on: .NET, JavaScript, React, Node.js
 
