@@ -1,7 +1,6 @@
 ## Hi there, I'm İlayda 👋
 
-#### I am a freshly graduated computer engineer.
-
+#### Freshly graduated computer engineer who has a great interest in software development and data analysis.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilaydadmrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
